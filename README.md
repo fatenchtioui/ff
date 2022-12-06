@@ -1,7 +1,11 @@
 # ff
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fatenchtioui/ff/HEAD)
+
 DAproject
+
 # file_folder: dataset
+
+
 |    | category              |   room_count |   bathroom_count |   size | type     |   price | city   | region        |   log_price |
 |---:|:----------------------|-------------:|-----------------:|-------:|:---------|--------:|:-------|:--------------|------------:|
 |  0 | Terrains et Fermes    |           -1 |               -1 |     -1 | À Vendre |  100000 | Ariana | Raoued        |     5       |
@@ -9,3 +13,8 @@ DAproject
 |  2 | Appartements          |            2 |                1 |     80 | À Louer  |     380 | Ariana | Autres villes |     2.57978 |
 |  3 | Locations de vacances |            1 |                1 |     90 | À Louer  |      70 | Ariana | Autres villes |     1.8451  |
 |  4 | Appartements          |            2 |                2 |    113 | À Vendre |  170000 | Ariana | Ariana Ville  |     5.23045 |
+
+Dans ce project nous présentons trois partir:
+1/ Explorer, nettoyer, affiner et mélanger des jeux de données
+2/Analyse exploratoire des données
+3/Visualisation avec matplotlib
