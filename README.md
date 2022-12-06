@@ -14,7 +14,3 @@ DAproject
 |  3 | Locations de vacances |            1 |                1 |     90 | À Louer  |      70 | Ariana | Autres villes |     1.8451  |
 |  4 | Appartements          |            2 |                2 |    113 | À Vendre |  170000 | Ariana | Ariana Ville  |     5.23045 |
 
-Dans ce project nous présentons trois partir:
-1/ Explorer, nettoyer, affiner et mélanger des jeux de données
-2/Analyse exploratoire des données
-3/Visualisation avec matplotlib
