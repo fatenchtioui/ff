@@ -1,10 +1,8 @@
 # ff
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fatenchtioui/ff/HEAD)
 
-DAproject
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fatenchtioui/ff/main?labpath=index.ipynb)
 
-# file_folder: dataset
-
+# :file_folder: dataset
 
 |    | category              |   room_count |   bathroom_count |   size | type     |   price | city   | region        |   log_price |
 |---:|:----------------------|-------------:|-----------------:|-------:|:---------|--------:|:-------|:--------------|------------:|
